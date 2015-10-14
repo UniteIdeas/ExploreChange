@@ -1,3 +1,7 @@
+#ExploreChange#
+
+Author: Mr. Stephan Schlögl - Solution for #VisualizeChange
+
 This visualization is a contribution to #VisualizeChange the **World Humanitarian Summit Data Challenge** 2015.
 The interactive visualization can be accessed [here](http://supersambo.shinyapps.io/visualizeChange).  
 
